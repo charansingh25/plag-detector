@@ -28,13 +28,13 @@ To run this project locally, follow the steps below:
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:charansingh25/Plagiarism-Detector.git
+git clone git@github.com:charansingh25/plag-detector.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd Plagiarism-Detector
+cd plag-detector
 ```
 
 ### 3. Install dependencies
